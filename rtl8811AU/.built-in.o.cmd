@@ -1,0 +1,1 @@
+cmd_drivers/amlogic/../../../hardware/wifi/realtek/drivers/8811au/rtl8811AU/built-in.o :=  rm -f drivers/amlogic/../../../hardware/wifi/realtek/drivers/8811au/rtl8811AU/built-in.o; arm-linux-gnueabihf-ar rcsD drivers/amlogic/../../../hardware/wifi/realtek/drivers/8811au/rtl8811AU/built-in.o
