@@ -1,0 +1,1 @@
+cmd_drivers/amlogic/../../../hardware/wifi/realtek/drivers/8723au/rtl8723AU/built-in.o :=  rm -f drivers/amlogic/../../../hardware/wifi/realtek/drivers/8723au/rtl8723AU/built-in.o; arm-linux-gnueabihf-ar rcsD drivers/amlogic/../../../hardware/wifi/realtek/drivers/8723au/rtl8723AU/built-in.o
